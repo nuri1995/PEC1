@@ -32,6 +32,8 @@
   color: var(--contraste-color);
  }
 
+
+
 .logo {
   width: 30%;
   height: auto;
@@ -222,7 +224,6 @@ div ul, div ol{
       text-align: left;
       grid-template-columns: 1fr 1fr;
       grid-template-rows: 1fr auto;
-      /*grid-template-columns: 1fr 1fr;*/
       font-size: 0.7rem;
       padding-bottom: 0;
   }
